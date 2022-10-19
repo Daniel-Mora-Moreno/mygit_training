@@ -10,6 +10,8 @@ Then this is meant for you!
 
 Let's get started!
 
+THIS IS A NEW LINE
+
 ---
 
 > Based on the general concept from Rachel M. Carmena's blog post on [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html).
