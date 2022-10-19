@@ -12,6 +12,8 @@ Let's get started!
 
 THIS IS A NEW LINE
 
+THIS IS A NEW LINE FOR THE BRANCH rama1 !!!
+
 ---
 
 > Based on the general concept from Rachel M. Carmena's blog post on [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html).
